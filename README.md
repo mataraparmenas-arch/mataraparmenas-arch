@@ -1,62 +1,42 @@
-## Hi there 👋
+# Building Technologist | Web3 Builder | Frontier Tech
 
-<p align="center">
-  <sub>● ● ●</sub>
-</p>
+Grounded in physical and systemic infrastructure through Building Technology, I am actively expanding my technical scope into decentralized systems and frontier technologies. 
 
-<h3 align="center">PARMENAS MATARA</h3>
-<p align="center">
-  <code>Building Technologist</code> <code>Web3 Builder</code> <code>Frontier Tech</code>
-</p>
-<p align="center">
-  <sub>Physical infrastructure → decentralized systems → intelligent tooling</sub>
-</p>
+## Currently Building & Exploring
 
----
+Focused on the intersection of privacy, decentralization, and intelligent systems. My current development and research efforts are directed toward:
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub><b>01 // COMMAND CENTER</b></sub><br><br>
-      <b>Who</b> — Builder grounded in Building Technology, expanding into Web3 and frontier tech through learning, experimentation, and building.<br><br>
-      <b>Direction</b> — Privacy · Decentralization · Smart Contracts · Protocols · ZK · Rollups · AI<br><br>
-      <b>Status</b> — <code>● BUILDING IN PUBLIC</code>
-    </td>
-    <td width="50%" valign="top">
-      <sub><b>02 // CURRENTLY BUILDING</b></sub><br><br>
-      <code>BUILDING</code> Web3 · AI · Full-Stack<br><br>
-      <code>EXPLORING</code> Privacy · ZK · Rollups · Protocols<br><br>
-      <code>LEARNING</code> Smart Contracts · Decentralized Systems
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub><b>03 // ACTIVITY · WORKFLOW</b></sub><br><br>
-      <code>RESEARCH → LEARN → DESIGN → BUILD → TEST → SHIP</code><br><br>
-      <sub>AI-assisted across research · learning · architecture · coding · debugging · testing · documentation · problem-solving</sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub><b>04 // TECHNOLOGY</b></sub><br><br>
-      <code>WEB3</code> Smart Contracts · Protocols · ZK · Rollups<br><br>
-      <code>DEV</code> Full-Stack · Web Frameworks · APIs · Git<br><br>
-      <code>AI</code> AI Coding Assistants · AI Research Tools · AI Workflows
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub><b>05 // PROJECTS</b></sub><br><br>
-      <code>LOG</code> <i>initializing…</i><br><br>
-      <sub>Projects will be documented here as they take shape.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub><b>06 // FOUNDATION</b></sub><br><br>
-      <code>BUILDING TECH → DIGITAL TECH → WEB3 → FRONTIER TECH</code><br><br>
-      <sub>An intentional evolution — not a departure.</sub>
-    </td>
-  </tr>
-</table>
+* **Web3 Infrastructure:** Smart contract logic, protocol design fundamentals, Zero-Knowledge (ZK) concepts, and Rollup architecture.
+* **Software Engineering:** AI-assisted full-stack development and systems integration.
 
----
+## How I Build
+
+I utilize AI-augmented development workflows to accelerate the engineering lifecycle without compromising technical rigor. AI serves as a collaborative tool across my stack, enabling me to focus on high-level architecture, logic verification, and system design.
+
+**Workflow Integration:** 
+Technical Research • Architecture & Ideation • Rapid Prototyping • Coding • Debugging • Testing • Documentation
+
+## Tools & Technologies
+
+**Web3 & Decentralization**
+Smart Contracts · Protocol Design · Zero-Knowledge (ZK) Concepts · Rollup Architecture
+
+**Software Development**
+Full-Stack Development · Web Frameworks · API Integration · Version Control (Git)
+
+**AI & Automation**
+AI Coding Assistants · AI Research Tools · AI-Driven Development Workflows
+
+**Core Foundation**
+Building Technology · Systems Infrastructure · Physical/Digital Integration
+
+## Connect
+
+* **Website:** [parmenasmatara.com](https://www.parmenasmatara.com)
+* **LinkedIn:** [parmenas-matara](https://www.linkedin.com/in/parmenas-matara/)
+* **X / Twitter:** [@MataraParmenas](https://x.com/MataraParmenas)
+* **Linktree:** [Parmyy](https://linktr.ee/Parmyy)
+* **Email:** [hello@mataraparmenas.com](mailto:hello@mataraparmenas.com)
 
 <p align="center">
   <sub><b>07 // CONNECT</b></sub><br><br>
